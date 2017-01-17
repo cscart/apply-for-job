@@ -1,0 +1,65 @@
+[
+  {
+    "unique_id": 1,
+    "display_name": "Brand",
+    "type": "list",
+    "list_variants": [
+      {
+        "unique_id": 1,
+        "display_name": "Puma"
+      },
+      {
+        "unique_id": 2,
+        "display_name": "Adidas"
+      },
+      {
+        "unique_id": 3,
+        "display_name": "Reebok"
+      },
+      {
+        "unique_id": 4,
+        "display_name": "Nike"
+      },
+      {
+        "unique_id": 5,
+        "display_name": "Columbia"
+      }
+    ]
+  },
+  {
+    "unique_id": 2,
+    "display_name": "Price",
+    "type": "slider",
+    "slider_min_value": 36,
+    "slider_max_value": 10700,
+    "slider_value_prefix": "$",
+    "slider_value_suffix": null
+  },
+  {
+    "unique_id": 3,
+    "display_name": "Color",
+    "type": "list",
+    "list_variants": [
+      {
+        "unique_id": 6,
+        "display_name": "White"
+      },
+      {
+        "unique_id": 7,
+        "display_name": "Black"
+      },
+      {
+        "unique_id": 8,
+        "display_name": "Red"
+      },
+      {
+        "unique_id": 9,
+        "display_name": "Yellow"
+      },
+      {
+        "unique_id": 10,
+        "display_name": "Green"
+      }
+    ]
+  }
+]
