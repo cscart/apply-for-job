@@ -2,5 +2,5 @@
  
 ### Frontend-разработка
 
-1. [Junior frontend-разработчик](./frontend-developer/001-Junior.md)
-2. [Lead frontend-разработчик](./frontend-developer/002-Lead.md)
+1. [Задание для стажёров](./frontend-developer/001-Junior.md)
+2. [Основное задание](./frontend-developer/002-Complex.md)
