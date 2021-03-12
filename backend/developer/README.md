@@ -11,7 +11,7 @@
 2. Установить CS-Cart. Материалы, которые вам помогут:
     * [Docker-окружение для запуска CS-Cart](https://github.com/cscart/development-docker).
     * [Инструкции по установке](https://www.cs-cart.ru/docs/latest/install/).
-    * [Видео-уроки по установке, управлению и разработке](https://vimeo.com/cscart/collections).
+    * [Видео-уроки по установке, управлению и разработке](https://www.cs-cart.ru/videos/).
     * [Документация](https://www.cs-cart.ru/docs/latest/).
 
 ## Необходимая функциональность
