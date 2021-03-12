@@ -1,0 +1,341 @@
+-------- day 0 --------
+name, sellIn, quality
+Dexterity vest, 10, 20
+Blue cheese, 2, 0
+Healing potion, 5, 7
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, 15, 20
+Concert tickets, 10, 49
+Concert tickets, 5, 49
+
+-------- day 1 --------
+name, sellIn, quality
+Dexterity vest, 9, 19
+Blue cheese, 1, 1
+Healing potion, 4, 6
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, 14, 21
+Concert tickets, 9, 50
+Concert tickets, 4, 50
+
+-------- day 2 --------
+name, sellIn, quality
+Dexterity vest, 8, 18
+Blue cheese, 0, 2
+Healing potion, 3, 5
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, 13, 22
+Concert tickets, 8, 50
+Concert tickets, 3, 50
+
+-------- day 3 --------
+name, sellIn, quality
+Dexterity vest, 7, 17
+Blue cheese, -1, 4
+Healing potion, 2, 4
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, 12, 23
+Concert tickets, 7, 50
+Concert tickets, 2, 50
+
+-------- day 4 --------
+name, sellIn, quality
+Dexterity vest, 6, 16
+Blue cheese, -2, 6
+Healing potion, 1, 3
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, 11, 24
+Concert tickets, 6, 50
+Concert tickets, 1, 50
+
+-------- day 5 --------
+name, sellIn, quality
+Dexterity vest, 5, 15
+Blue cheese, -3, 8
+Healing potion, 0, 2
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, 10, 25
+Concert tickets, 5, 50
+Concert tickets, 0, 50
+
+-------- day 6 --------
+name, sellIn, quality
+Dexterity vest, 4, 14
+Blue cheese, -4, 10
+Healing potion, -1, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, 9, 27
+Concert tickets, 4, 50
+Concert tickets, -1, 0
+
+-------- day 7 --------
+name, sellIn, quality
+Dexterity vest, 3, 13
+Blue cheese, -5, 12
+Healing potion, -2, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, 8, 29
+Concert tickets, 3, 50
+Concert tickets, -2, 0
+
+-------- day 8 --------
+name, sellIn, quality
+Dexterity vest, 2, 12
+Blue cheese, -6, 14
+Healing potion, -3, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, 7, 31
+Concert tickets, 2, 50
+Concert tickets, -3, 0
+
+-------- day 9 --------
+name, sellIn, quality
+Dexterity vest, 1, 11
+Blue cheese, -7, 16
+Healing potion, -4, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, 6, 33
+Concert tickets, 1, 50
+Concert tickets, -4, 0
+
+-------- day 10 --------
+name, sellIn, quality
+Dexterity vest, 0, 10
+Blue cheese, -8, 18
+Healing potion, -5, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, 5, 35
+Concert tickets, 0, 50
+Concert tickets, -5, 0
+
+-------- day 11 --------
+name, sellIn, quality
+Dexterity vest, -1, 8
+Blue cheese, -9, 20
+Healing potion, -6, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, 4, 38
+Concert tickets, -1, 0
+Concert tickets, -6, 0
+
+-------- day 12 --------
+name, sellIn, quality
+Dexterity vest, -2, 6
+Blue cheese, -10, 22
+Healing potion, -7, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, 3, 41
+Concert tickets, -2, 0
+Concert tickets, -7, 0
+
+-------- day 13 --------
+name, sellIn, quality
+Dexterity vest, -3, 4
+Blue cheese, -11, 24
+Healing potion, -8, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, 2, 44
+Concert tickets, -3, 0
+Concert tickets, -8, 0
+
+-------- day 14 --------
+name, sellIn, quality
+Dexterity vest, -4, 2
+Blue cheese, -12, 26
+Healing potion, -9, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, 1, 47
+Concert tickets, -4, 0
+Concert tickets, -9, 0
+
+-------- day 15 --------
+name, sellIn, quality
+Dexterity vest, -5, 0
+Blue cheese, -13, 28
+Healing potion, -10, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, 0, 50
+Concert tickets, -5, 0
+Concert tickets, -10, 0
+
+-------- day 16 --------
+name, sellIn, quality
+Dexterity vest, -6, 0
+Blue cheese, -14, 30
+Healing potion, -11, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, -1, 0
+Concert tickets, -6, 0
+Concert tickets, -11, 0
+
+-------- day 17 --------
+name, sellIn, quality
+Dexterity vest, -7, 0
+Blue cheese, -15, 32
+Healing potion, -12, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, -2, 0
+Concert tickets, -7, 0
+Concert tickets, -12, 0
+
+-------- day 18 --------
+name, sellIn, quality
+Dexterity vest, -8, 0
+Blue cheese, -16, 34
+Healing potion, -13, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, -3, 0
+Concert tickets, -8, 0
+Concert tickets, -13, 0
+
+-------- day 19 --------
+name, sellIn, quality
+Dexterity vest, -9, 0
+Blue cheese, -17, 36
+Healing potion, -14, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, -4, 0
+Concert tickets, -9, 0
+Concert tickets, -14, 0
+
+-------- day 20 --------
+name, sellIn, quality
+Dexterity vest, -10, 0
+Blue cheese, -18, 38
+Healing potion, -15, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, -5, 0
+Concert tickets, -10, 0
+Concert tickets, -15, 0
+
+-------- day 21 --------
+name, sellIn, quality
+Dexterity vest, -11, 0
+Blue cheese, -19, 40
+Healing potion, -16, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, -6, 0
+Concert tickets, -11, 0
+Concert tickets, -16, 0
+
+-------- day 22 --------
+name, sellIn, quality
+Dexterity vest, -12, 0
+Blue cheese, -20, 42
+Healing potion, -17, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, -7, 0
+Concert tickets, -12, 0
+Concert tickets, -17, 0
+
+-------- day 23 --------
+name, sellIn, quality
+Dexterity vest, -13, 0
+Blue cheese, -21, 44
+Healing potion, -18, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, -8, 0
+Concert tickets, -13, 0
+Concert tickets, -18, 0
+
+-------- day 24 --------
+name, sellIn, quality
+Dexterity vest, -14, 0
+Blue cheese, -22, 46
+Healing potion, -19, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, -9, 0
+Concert tickets, -14, 0
+Concert tickets, -19, 0
+
+-------- day 25 --------
+name, sellIn, quality
+Dexterity vest, -15, 0
+Blue cheese, -23, 48
+Healing potion, -20, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, -10, 0
+Concert tickets, -15, 0
+Concert tickets, -20, 0
+
+-------- day 26 --------
+name, sellIn, quality
+Dexterity vest, -16, 0
+Blue cheese, -24, 50
+Healing potion, -21, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, -11, 0
+Concert tickets, -16, 0
+Concert tickets, -21, 0
+
+-------- day 27 --------
+name, sellIn, quality
+Dexterity vest, -17, 0
+Blue cheese, -25, 50
+Healing potion, -22, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, -12, 0
+Concert tickets, -17, 0
+Concert tickets, -22, 0
+
+-------- day 28 --------
+name, sellIn, quality
+Dexterity vest, -18, 0
+Blue cheese, -26, 50
+Healing potion, -23, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, -13, 0
+Concert tickets, -18, 0
+Concert tickets, -23, 0
+
+-------- day 29 --------
+name, sellIn, quality
+Dexterity vest, -19, 0
+Blue cheese, -27, 50
+Healing potion, -24, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, -14, 0
+Concert tickets, -19, 0
+Concert tickets, -24, 0
+
+-------- day 30 --------
+name, sellIn, quality
+Dexterity vest, -20, 0
+Blue cheese, -28, 50
+Healing potion, -25, 0
+Mjolnir, 0, 80
+Mjolnir, -1, 80
+Concert tickets, -15, 0
+Concert tickets, -20, 0
+Concert tickets, -25, 0
+
