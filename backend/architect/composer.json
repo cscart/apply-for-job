@@ -1,0 +1,21 @@
+{
+    "name": "cscart/apply-for-job",
+    "description": "CS-Cart architect test task",
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Shop\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.0",
+        "approvals/approval-tests": "^1.4"
+    }
+}
